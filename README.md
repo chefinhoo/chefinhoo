@@ -1,37 +1,12 @@
 # Danilo Ramos
 
-Sou **Web Designer e Desenvolvedor Web**, apaixonado por tecnologia, criação de interfaces e desenvolvimento de projetos para a web.
+Sou **Web Designer e Desenvolvedor Web**, apaixonado por tecnologia e criação de experiências digitais.
 
-Tenho experiência com criação de sites, landing pages, WordPress, HTML, CSS, JavaScript e outras tecnologias voltadas para desenvolvimento e design web.
+Tenho experiência com desenvolvimento de sites, WordPress, HTML, CSS, JavaScript e diversas ferramentas utilizadas no desenvolvimento web.
 
-Além do trabalho, estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar ideias em projetos funcionais, modernos e profissionais.
+Além do trabalho, estou sempre aprendendo novas tecnologias e buscando melhorar meus conhecimentos para criar projetos cada vez mais modernos e profissionais.
 
-## 🚀 Tecnologias e ferramentas
+Estou sempre aberto a novos projetos, oportunidades e colaborações onde eu possa contribuir com minhas habilidades e conhecimentos.
 
-- HTML5
-- CSS3
-- JavaScript
-- WordPress
-- PHP
-- Git & GitHub
-- Docker
-- Linux
-- UI/UX Design
-- Desenvolvimento Web
-
-## 💼 Sobre mim
-
-Atualmente atuo como **Web Designer e Desenvolvedor Web**, criando soluções digitais para empresas, profissionais e projetos pessoais.
-
-Gosto de trabalhar desde a criação visual até a implementação e publicação dos projetos, buscando sempre entregar uma experiência moderna, responsiva e intuitiva.
-
-## 🌐 Portfólio
-
-Quer conhecer um pouco mais sobre meu trabalho e ver alguns dos projetos que já desenvolvi?
-
-👉 **[Acesse meu portfólio](https://daniloramos.dev.br)**
-
-## 📱 Entre em contato
-
-- 🌐 Portfólio: [daniloramos.dev.br](https://daniloramos.dev.br)
-- 💻 GitHub: [github.com/daniloramos](https://github.com/daniloramos)
+Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi?  
+**[Acesse meu portfólio](https://daniloramos.dev.br)**
